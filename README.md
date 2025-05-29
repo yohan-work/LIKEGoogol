@@ -2,6 +2,10 @@
 
 실시간 음성 인식과 텍스트 번역을 지원하는 무료 한국어-영어 번역 웹 애플리케이션입니다.
 
+<img width="778" alt="스크린샷 2025-05-29 오후 10 19 03" src="https://github.com/user-attachments/assets/09f42494-b8fa-4446-9e14-043e7736cbf9" />
+<img width="757" alt="스크린샷 2025-05-29 오후 10 20 05" src="https://github.com/user-attachments/assets/ce940479-08a5-41a5-898c-cb564f686394" />
+
+
 ## 주요 기능
 
 - ** 실시간 음성 번역**: 마이크를 통해 말한 한국어를 실시간으로 영어로 번역
@@ -19,7 +23,7 @@
 - **HTTP Client**: Axios
 - **배포**: Vercel (pending)
 
-## 🏗️ 프로젝트 구조
+## 프로젝트 구조
 
 ```
 src/
